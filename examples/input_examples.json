@@ -1,0 +1,62 @@
+[
+  {
+    "pain_point": "Our support agents are overwhelmed by the high volume of repetitive questions",
+    "business_context": {
+      "industry": "e-commerce",
+      "company_size": "medium",
+      "current_tools": ["email", "phone", "basic chat"],
+      "customer_volume": "high",
+      "primary_channels": ["web", "email", "phone"]
+    },
+    "urgency_level": "high",
+    "budget_constraints": "moderate"
+  },
+  {
+    "pain_point": "We have no clear idea which customer touchpoints are causing the most frustration",
+    "business_context": {
+      "industry": "retail",
+      "company_size": "large",
+      "current_tools": ["POS", "website", "mobile app"],
+      "customer_volume": "very_high",
+      "primary_channels": ["in-store", "online", "mobile"]
+    },
+    "urgency_level": "medium",
+    "budget_constraints": "flexible"
+  },
+  {
+    "pain_point": "It's difficult to get a single view of a customer's interaction history when they contact us",
+    "business_context": {
+      "industry": "financial_services",
+      "company_size": "large",
+      "current_tools": ["CRM", "phone system", "email"],
+      "customer_volume": "high",
+      "primary_channels": ["phone", "email", "branch"]
+    },
+    "urgency_level": "high",
+    "budget_constraints": "high"
+  },
+  {
+    "pain_point": "Manually analyzing thousands of open-ended survey responses for common themes is too time-consuming",
+    "business_context": {
+      "industry": "technology",
+      "company_size": "medium",
+      "current_tools": ["survey tools", "spreadsheets", "basic analytics"],
+      "customer_volume": "medium",
+      "primary_channels": ["web", "email", "product"]
+    },
+    "urgency_level": "medium",
+    "budget_constraints": "low"
+  },
+  {
+    "pain_point": "We struggle to collect customer feedback consistently after a purchase",
+    "business_context": {
+      "industry": "e-commerce",
+      "company_size": "small",
+      "current_tools": ["website", "email"],
+      "customer_volume": "medium",
+      "primary_channels": ["web", "email"]
+    },
+    "urgency_level": "low",
+    "budget_constraints": "low"
+  }
+] 

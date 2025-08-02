@@ -1,0 +1,167 @@
+[
+  {
+    "suggested_solutions": [
+      {
+        "feature_name": "AI Agent for FAQ & First Response",
+        "category": "AI Customer Service - AI Inbox",
+        "description": "Automated AI agent that handles common customer inquiries",
+        "relevance_score": 0.95,
+        "how_it_helps": "Deflects common queries and provides instant answers, freeing up human agents for complex issues",
+        "implementation_steps": [
+          "Set up AI agent with FAQ knowledge base",
+          "Configure response templates for common questions",
+          "Train on historical support data",
+          "Integrate with existing support channels"
+        ],
+        "estimated_impact": "Reduce support ticket volume by 60%",
+        "time_to_implement": "2-4 weeks"
+      },
+      {
+        "feature_name": "Comprehensive Ticket Management System",
+        "category": "AI Customer Service - Tickets",
+        "description": "End-to-end ticket management with AI assistance",
+        "relevance_score": 0.85,
+        "how_it_helps": "Organizes and routes tickets efficiently, reducing agent workload and improving response times",
+        "implementation_steps": [
+          "Configure ticket routing rules",
+          "Set up SLA tracking",
+          "Integrate with existing support tools",
+          "Train agents on new system"
+        ],
+        "estimated_impact": "Improve resolution time by 40%",
+        "time_to_implement": "3-4 weeks"
+      }
+    ],
+    "confidence_score": 0.92,
+    "alternative_approaches": [
+      "Implement self-service knowledge base",
+      "Add more support agents",
+      "Improve existing FAQ section"
+    ],
+    "next_steps": [
+      "Schedule demo of AI Agent feature",
+      "Review implementation timeline",
+      "Prepare training materials for team"
+    ]
+  },
+  {
+    "suggested_solutions": [
+      {
+        "feature_name": "Customer Journey Experience Analysis",
+        "category": "Insights - Experience",
+        "description": "Analyze customer experiences across all touchpoints",
+        "relevance_score": 0.98,
+        "how_it_helps": "Identifies friction points by analyzing feedback and operational data across the entire customer journey",
+        "implementation_steps": [
+          "Map current customer journey",
+          "Integrate data from all touchpoints",
+          "Set up analytics dashboard",
+          "Configure alert system for issues"
+        ],
+        "estimated_impact": "Improve customer satisfaction by 25%",
+        "time_to_implement": "4-6 weeks"
+      }
+    ],
+    "confidence_score": 0.95,
+    "alternative_approaches": [
+      "Conduct manual customer journey mapping",
+      "Implement basic analytics tools",
+      "Use existing customer feedback data"
+    ],
+    "next_steps": [
+      "Start with journey mapping workshop",
+      "Identify key data sources",
+      "Set up pilot program"
+    ]
+  },
+  {
+    "suggested_solutions": [
+      {
+        "feature_name": "Customer Profile with Interaction History",
+        "category": "Customer 360 - Customers & AI Inbox",
+        "description": "Unified customer view with complete interaction history",
+        "relevance_score": 0.97,
+        "how_it_helps": "Consolidates all touchpoints and past interactions for a comprehensive view of each customer",
+        "implementation_steps": [
+          "Integrate all customer data sources",
+          "Set up real-time data synchronization",
+          "Configure customer profile views",
+          "Train agents on new system"
+        ],
+        "estimated_impact": "Improve customer satisfaction by 40%",
+        "time_to_implement": "6-8 weeks"
+      }
+    ],
+    "confidence_score": 0.94,
+    "alternative_approaches": [
+      "Improve existing CRM system",
+      "Implement basic customer profiles",
+      "Use data integration tools"
+    ],
+    "next_steps": [
+      "Audit current data sources",
+      "Plan data integration strategy",
+      "Design customer profile interface"
+    ]
+  },
+  {
+    "suggested_solutions": [
+      {
+        "feature_name": "AI-Powered Topic & Sentiment Analysis for VoC",
+        "category": "VoC - Conversations/Surveys, Insights - Experience",
+        "description": "Automated analysis of customer feedback and conversations",
+        "relevance_score": 0.96,
+        "how_it_helps": "Automatically extracts key topics and sentiment from text feedback, saving hours of manual analysis",
+        "implementation_steps": [
+          "Connect to existing survey and feedback data",
+          "Configure analysis parameters",
+          "Set up automated reporting",
+          "Train team on new insights"
+        ],
+        "estimated_impact": "Reduce analysis time by 80%",
+        "time_to_implement": "1-2 weeks"
+      }
+    ],
+    "confidence_score": 0.93,
+    "alternative_approaches": [
+      "Use basic text analysis tools",
+      "Hire additional analysts",
+      "Implement manual analysis processes"
+    ],
+    "next_steps": [
+      "Export sample feedback data",
+      "Configure analysis settings",
+      "Set up pilot analysis"
+    ]
+  },
+  {
+    "suggested_solutions": [
+      {
+        "feature_name": "Automated Post-Purchase Surveys",
+        "category": "VoC - Surveys",
+        "description": "Automated survey deployment across multiple channels",
+        "relevance_score": 0.89,
+        "how_it_helps": "Trigger surveys automatically via email/SMS after a transaction to collect consistent feedback",
+        "implementation_steps": [
+          "Design survey templates",
+          "Set up automated triggers",
+          "Configure multi-channel deployment",
+          "Test with small customer segment"
+        ],
+        "estimated_impact": "Increase response rates by 60%",
+        "time_to_implement": "1-2 weeks"
+      }
+    ],
+    "confidence_score": 0.87,
+    "alternative_approaches": [
+      "Use existing survey tools",
+      "Implement manual follow-up process",
+      "Add feedback forms to website"
+    ],
+    "next_steps": [
+      "Design survey questions",
+      "Set up email automation",
+      "Create feedback collection strategy"
+    ]
+  }
+] 

@@ -1,0 +1,241 @@
+[
+  {
+    "feature_id": "ai_inbox_001",
+    "feature_name": "AI Agent for FAQ & First Response",
+    "category": "AI Customer Service",
+    "subcategory": "AI Inbox",
+    "description": "Automated AI agent that handles common customer inquiries",
+    "key_capabilities": [
+      "24/7 automated responses",
+      "Natural language processing",
+      "Seamless human handoff",
+      "Learning from interactions"
+    ],
+    "pain_points_addressed": [
+      "High support ticket volume",
+      "Repetitive customer questions",
+      "Long response times",
+      "Agent burnout"
+    ],
+    "keywords": [
+      "automation", "FAQ", "chatbot", "support", "tickets",
+      "repetitive", "overwhelmed", "response time", "agents"
+    ],
+    "use_cases": [
+      "E-commerce customer support",
+      "SaaS product support",
+      "Service industry inquiries"
+    ],
+    "implementation_complexity": "medium",
+    "time_to_value": "2-4 weeks",
+    "integration_requirements": [
+      "Existing support system",
+      "FAQ knowledge base",
+      "Customer data access"
+    ],
+    "success_metrics": [
+      "Reduced ticket volume by 60%",
+      "Improved response time by 80%",
+      "Increased customer satisfaction"
+    ]
+  },
+  {
+    "feature_id": "journey_001",
+    "feature_name": "Customer Journey Experience Analysis",
+    "category": "Insights",
+    "subcategory": "Experience",
+    "description": "Analyze customer experiences across all touchpoints",
+    "key_capabilities": [
+      "Journey mapping",
+      "Friction point identification",
+      "Cross-channel analysis",
+      "Experience scoring"
+    ],
+    "pain_points_addressed": [
+      "Unclear customer touchpoints",
+      "Poor customer experience",
+      "Low customer satisfaction",
+      "High churn rate"
+    ],
+    "keywords": [
+      "journey", "experience", "touchpoints", "friction", "satisfaction",
+      "churn", "analysis", "mapping"
+    ],
+    "use_cases": [
+      "Customer experience optimization",
+      "Journey improvement",
+      "Churn reduction"
+    ],
+    "implementation_complexity": "medium",
+    "time_to_value": "4-6 weeks",
+    "integration_requirements": [
+      "Customer data sources",
+      "Analytics tools",
+      "Journey mapping tools"
+    ],
+    "success_metrics": [
+      "Improved customer satisfaction by 25%",
+      "Reduced churn by 30%",
+      "Identified 5+ friction points"
+    ]
+  },
+  {
+    "feature_id": "customer_360_001",
+    "feature_name": "Customer Profile with Interaction History",
+    "category": "Customer 360",
+    "subcategory": "Customers",
+    "description": "Unified customer view with complete interaction history",
+    "key_capabilities": [
+      "Single customer view",
+      "Interaction history",
+      "Customer segmentation",
+      "Real-time updates"
+    ],
+    "pain_points_addressed": [
+      "Fragmented customer data",
+      "Poor customer service",
+      "Lack of customer context",
+      "Inefficient support"
+    ],
+    "keywords": [
+      "customer", "profile", "history", "unified", "view",
+      "fragmented", "context", "support"
+    ],
+    "use_cases": [
+      "Customer service improvement",
+      "Personalized experiences",
+      "Customer retention"
+    ],
+    "implementation_complexity": "high",
+    "time_to_value": "6-8 weeks",
+    "integration_requirements": [
+      "Multiple data sources",
+      "Data integration tools",
+      "Real-time processing"
+    ],
+    "success_metrics": [
+      "Improved customer satisfaction by 40%",
+      "Reduced support time by 50%",
+      "Increased customer lifetime value"
+    ]
+  },
+  {
+    "feature_id": "voc_001",
+    "feature_name": "AI-Powered Topic & Sentiment Analysis",
+    "category": "Voice of Customer",
+    "subcategory": "Conversations/Surveys",
+    "description": "Automated analysis of customer feedback and conversations",
+    "key_capabilities": [
+      "Topic extraction",
+      "Sentiment analysis",
+      "Trend identification",
+      "Automated insights"
+    ],
+    "pain_points_addressed": [
+      "Manual feedback analysis",
+      "Time-consuming data processing",
+      "Missed customer insights",
+      "Poor feedback utilization"
+    ],
+    "keywords": [
+      "analysis", "sentiment", "topics", "feedback", "insights",
+      "manual", "time-consuming", "processing"
+    ],
+    "use_cases": [
+      "Customer feedback analysis",
+      "Product improvement",
+      "Service optimization"
+    ],
+    "implementation_complexity": "low",
+    "time_to_value": "1-2 weeks",
+    "integration_requirements": [
+      "Feedback data sources",
+      "Text processing capabilities"
+    ],
+    "success_metrics": [
+      "Reduced analysis time by 80%",
+      "Identified 10+ improvement areas",
+      "Improved product decisions"
+    ]
+  },
+  {
+    "feature_id": "surveys_001",
+    "feature_name": "Automated Post-Purchase Surveys",
+    "category": "Voice of Customer",
+    "subcategory": "Surveys",
+    "description": "Automated survey deployment across multiple channels",
+    "key_capabilities": [
+      "Multi-channel deployment",
+      "Automated triggers",
+      "Real-time responses",
+      "Customizable templates"
+    ],
+    "pain_points_addressed": [
+      "Inconsistent feedback collection",
+      "Low response rates",
+      "Manual survey management",
+      "Poor customer insights"
+    ],
+    "keywords": [
+      "surveys", "feedback", "collection", "automated", "triggers",
+      "inconsistent", "response rates", "manual"
+    ],
+    "use_cases": [
+      "Post-purchase feedback",
+      "Service evaluation",
+      "Customer satisfaction measurement"
+    ],
+    "implementation_complexity": "low",
+    "time_to_value": "1-2 weeks",
+    "integration_requirements": [
+      "Customer database",
+      "Email/SMS platforms",
+      "Survey templates"
+    ],
+    "success_metrics": [
+      "Increased response rates by 60%",
+      "Improved feedback quality",
+      "Faster insights generation"
+    ]
+  },
+  {
+    "feature_id": "tickets_001",
+    "feature_name": "Comprehensive Ticket Management System",
+    "category": "AI Customer Service",
+    "subcategory": "Tickets",
+    "description": "End-to-end ticket management with AI assistance",
+    "key_capabilities": [
+      "Ticket routing",
+      "Priority management",
+      "SLA tracking",
+      "Performance analytics"
+    ],
+    "pain_points_addressed": [
+      "Poor ticket organization",
+      "Slow resolution times",
+      "Lack of accountability",
+      "Inefficient workflows"
+    ],
+    "keywords": [
+      "tickets", "management", "routing", "SLA", "resolution",
+      "organization", "workflow", "accountability"
+    ],
+    "use_cases": [
+      "Customer support",
+      "Technical support",
+      "Service request management"
+    ],
+    "implementation_complexity": "medium",
+    "time_to_value": "3-4 weeks",
+    "integration_requirements": [
+      "Existing support system",
+      "Customer database",
+      "Communication channels"
+    ],
+    "success_metrics": [
+      "Reduced resolution time by 40%",
+      "Improved SLA compliance by 90%",
+      "Increased agent productivity"
+    ]
+  }
+] 
